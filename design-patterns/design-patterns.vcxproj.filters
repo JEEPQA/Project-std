@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="behavioral-patterns\chain-of-responsibility.cpp" />
+    <ClCompile Include="behavioral-patterns\command.cpp" />
+    <ClCompile Include="behavioral-patterns\interpreter.cpp" />
+    <ClCompile Include="behavioral-patterns\iterator.cpp" />
+    <ClCompile Include="behavioral-patterns\mediator.cpp" />
+    <ClCompile Include="behavioral-patterns\momento.cpp" />
+    <ClCompile Include="behavioral-patterns\observer.cpp" />
+    <ClCompile Include="behavioral-patterns\state.cpp" />
+    <ClCompile Include="behavioral-patterns\strategy.cpp" />
+    <ClCompile Include="behavioral-patterns\template-method.cpp" />
+    <ClCompile Include="behavioral-patterns\visitor.cpp" />
+    <ClCompile Include="creational-patterns\abstract-factory.cpp" />
+    <ClCompile Include="creational-patterns\builder.cpp" />
+    <ClCompile Include="creational-patterns\factory-method.cpp" />
+    <ClCompile Include="creational-patterns\prototype.cpp" />
+    <ClCompile Include="creational-patterns\singleton.cpp" />
+    <ClCompile Include="structural-patterns\adapter.cpp" />
+    <ClCompile Include="structural-patterns\bridge.cpp" />
+    <ClCompile Include="structural-patterns\composite.cpp" />
+    <ClCompile Include="structural-patterns\decorator.cpp" />
+    <ClCompile Include="structural-patterns\facade.cpp" />
+    <ClCompile Include="structural-patterns\flyweight.cpp" />
+    <ClCompile Include="structural-patterns\null_object.cpp" />
+    <ClCompile Include="structural-patterns\proxy.cpp" />
+  </ItemGroup>
+</Project>

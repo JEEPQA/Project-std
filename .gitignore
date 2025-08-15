@@ -1,0 +1,63 @@
+# 编译生成文件
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.o
+*.so
+*.a
+*.out
+*.class
+*.pyc
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+*.swo
+*.swn
+*.suo
+*.user
+*.ipch
+*.aps
+*.pch
+*.idb
+*.res
+*.ilk
+*.manifest
+*.tlog
+*.lastbuildstate
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vscode/
+Debug/
+x64/
+Release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+# IDE相关
+*.vs/
+# 其他
+Thumbs.db
+.DS_Store
+# 备份文件
+*~
+# 其他临时文件
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+# 生成的文档
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+# 你可以根据实际情况补充更多规则

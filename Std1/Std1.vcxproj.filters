@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="advit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="any_impl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="apply.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrrecognition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bind_r.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="boolconv.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bufcopy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="catcher.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cerr_stream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="checker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clone.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="compare.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="const_detect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="constmem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="constprob.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="constrange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="container_range.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="copy_class.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="defcast_compare.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="del_stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ebo_impl_principe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="endian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="enum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="expl_constr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="func_inher.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="functptr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
